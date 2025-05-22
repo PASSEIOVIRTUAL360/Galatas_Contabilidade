@@ -13,11 +13,11 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata copyright="" comment="" tags="OFII" latitude="-26.97955773" author="" longitude="-48.63775975" heading="172.275" info="" description="" source="" customnodeid="" nodeid="node7" title="" datetime="21/05/2025 02:12"/>
+    <userdata copyright="" comment="" tags="OFII" latitude="-26.97955773" author="" longitude="-48.63775975" heading="172.275" info="" description="" source="" customnodeid="" nodeid="node7" title="Gálatas Contabilidade" datetime="21/05/2025 02:12"/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label enabled="1" textalpha="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" background="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="0"/>
-      <hotspot url="{node6}" skinid="ht_node" pan="348.141" distance="4.11045" description="" tilt="0" target="$fwd" title="" id="Point02"/>
+      <hotspot url="{node6}" skinid="ht_node" pan="348.141" distance="4.11045" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point02"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="40" zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomspeed="2" blendtime="1" zoomoutpause="1" softedge="0" zoomin="7" zoomafterinfov="140" zoomout="0" type="mesh"/>
@@ -37,12 +37,12 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata copyright="" comment="" tags="OFII" latitude="-26.97959460" author="" longitude="-48.63776274" heading="183.386" info="" description="" source="" customnodeid="" nodeid="node6" title="" datetime="21/05/2025 02:12"/>
+    <userdata copyright="" comment="" tags="OFII" latitude="-26.97959460" author="" longitude="-48.63776274" heading="183.386" info="" description="" source="" customnodeid="" nodeid="node6" title="Gálatas Contabilidade" datetime="21/05/2025 02:12"/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label enabled="1" textalpha="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" background="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="0"/>
-      <hotspot url="{node7}" skinid="ht_node" pan="179.252" distance="4.11045" description="" tilt="0" target="$fwd" title="" id="Point01"/>
-      <hotspot url="{node1}" skinid="ht_node" pan="358.334" distance="3.7697" description="" tilt="0" target="$fwd" title="" id="Point02"/>
+      <hotspot url="{node7}" skinid="ht_node" pan="179.252" distance="4.11045" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point01"/>
+      <hotspot url="{node1}" skinid="ht_node" pan="358.334" distance="3.7697" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point02"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="40" zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomspeed="2" blendtime="1" zoomoutpause="1" softedge="0" zoomin="7" zoomafterinfov="140" zoomout="0" type="mesh"/>
@@ -62,12 +62,12 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata copyright="" comment="" tags="OFII" latitude="-26.97962837" author="" longitude="-48.63776609" heading="-175.608" info="" description="" source="" customnodeid="" nodeid="node1" title="" datetime="21/05/2025 02:11"/>
+    <userdata copyright="" comment="" tags="OFII" latitude="-26.97962837" author="" longitude="-48.63776609" heading="-175.608" info="" description="" source="" customnodeid="" nodeid="node1" title="Gálatas Contabilidade" datetime="21/05/2025 02:11"/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label enabled="1" textalpha="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" background="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="0"/>
-      <hotspot url="{node6}" skinid="ht_node" pan="-180.66" distance="3.7697" description="" tilt="0" target="$fwd" title="" id="Point01"/>
-      <hotspot url="{node5}" skinid="ht_node" pan="-0.248388" distance="4.15229" description="" tilt="0" target="$fwd" title="" id="Point02"/>
+      <hotspot url="{node6}" skinid="ht_node" pan="-180.66" distance="3.7697" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point01"/>
+      <hotspot url="{node5}" skinid="ht_node" pan="-0.248388" distance="4.15229" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point02"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="40" zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomspeed="2" blendtime="1" zoomoutpause="1" softedge="0" zoomin="7" zoomafterinfov="140" zoomout="0" type="mesh"/>
@@ -87,13 +87,13 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata copyright="" comment="" tags="OFII" latitude="-26.97966559" author="" longitude="-48.63776948" heading="-79.3336" info="" description="" source="" customnodeid="" nodeid="node5" title="" datetime="21/05/2025 02:12"/>
+    <userdata copyright="" comment="" tags="OFII" latitude="-26.97966559" author="" longitude="-48.63776948" heading="-79.3336" info="" description="" source="" customnodeid="" nodeid="node5" title="Gálatas Contabilidade" datetime="21/05/2025 02:12"/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label enabled="1" textalpha="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" background="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="0"/>
-      <hotspot url="{node1}" skinid="ht_node" pan="-83.974" distance="4.15229" description="" tilt="0" target="$fwd" title="" id="Point01"/>
-      <hotspot url="{node2}" skinid="ht_node" pan="23.9373" distance="3.6184" description="" tilt="0" target="$fwd" title="" id="Point02"/>
-      <hotspot url="{node4}" skinid="ht_node" pan="92.1721" distance="4.26665" description="" tilt="0" target="$fwd" title="" id="Point03"/>
+      <hotspot url="{node1}" skinid="ht_node" pan="-83.974" distance="4.15229" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point01"/>
+      <hotspot url="{node2}" skinid="ht_node" pan="23.9373" distance="3.6184" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point02"/>
+      <hotspot url="{node4}" skinid="ht_node" pan="92.1721" distance="4.26665" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point03"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="40" zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomspeed="2" blendtime="1" zoomoutpause="1" softedge="0" zoomin="7" zoomafterinfov="140" zoomout="0" type="mesh"/>
@@ -113,11 +113,11 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata copyright="" comment="" tags="OFII" latitude="-26.97967306" author="" longitude="-48.63780502" heading="-164.895" info="" description="" source="" customnodeid="" nodeid="node2" title="" datetime="2025:05:21 02:12:27"/>
+    <userdata copyright="" comment="" tags="OFII" latitude="-26.97967306" author="" longitude="-48.63780502" heading="-164.895" info="" description="" source="" customnodeid="" nodeid="node2" title="Gálatas Contabilidade" datetime="2025:05:21 02:12:27"/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label enabled="1" textalpha="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" background="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="0"/>
-      <hotspot url="{node5}" skinid="ht_node" pan="-241.624" distance="3.6184" description="" tilt="0" target="$fwd" title="" id="Point01"/>
+      <hotspot url="{node5}" skinid="ht_node" pan="-241.624" distance="3.6184" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point01"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="40" zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomspeed="2" blendtime="1" zoomoutpause="1" softedge="0" zoomin="7" zoomafterinfov="140" zoomout="0" type="mesh"/>
@@ -137,11 +137,11 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" pan="360" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
     </view>
-    <userdata copyright="" comment="" tags="OFII" latitude="-26.97970354" author="" longitude="-48.63777584" heading="177.094" info="" description="" source="" customnodeid="" nodeid="node4" title="" datetime="2025:05:21 02:12:28"/>
+    <userdata copyright="" comment="" tags="OFII" latitude="-26.97970354" author="" longitude="-48.63777584" heading="177.094" info="" description="" source="" customnodeid="" nodeid="node4" title="Gálatas Contabilidade" datetime="2025:05:21 02:12:28"/>
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label enabled="1" textalpha="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" background="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" mode="0"/>
-      <hotspot url="{node5}" skinid="ht_node" pan="168.6" distance="4.26665" description="" tilt="0" target="$fwd" title="" id="Point01"/>
+      <hotspot url="{node5}" skinid="ht_node" pan="168.6" distance="4.26665" description="" tilt="0" target="$fwd" title="Gálatas Contabilidade" id="Point01"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomfov="40" zoomafteroutfov="40" delay="none" blendcolor="0x000000" zoomspeed="2" blendtime="1" zoomoutpause="1" softedge="0" zoomin="7" zoomafterinfov="140" zoomout="0" type="mesh"/>
